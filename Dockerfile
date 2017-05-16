@@ -1,4 +1,4 @@
-FROM kihamo/scratch-ca-certs:1.0
+FROM kihamo/scratch-ca-certs
 
 ADD zoneinfo.zip /zoneinfo.zip
 
